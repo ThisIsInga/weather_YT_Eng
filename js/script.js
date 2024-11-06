@@ -1,5 +1,5 @@
-const apiKey = '8bd155d1c8177e3437c4765f690cc4ed'
-const city = 'Khabarovsk'
+const apiKey = '#'
+const city = '#'
 
 async function getWeather() {
     try{
